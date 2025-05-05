@@ -90,7 +90,7 @@ class ChatView(APIView):
             return JsonResponse({'error': 'User input is required'}, status=400)
 
         formatted_prompt = (
-            "You are a TV series expert. Only identify film dialogues.\n"
+            "You are a TV series expert. Only identify TV Series dialogues.\n"
             "If the dialogue is from a Movie or unknown, respond exactly with: 'Dialogue not found'.\n\n"
             f"Dialogue: \"{user_input}\"\nAnswer:"
         )
