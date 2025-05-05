@@ -1,13 +1,11 @@
 const Info = () => {
     const data = {
-        name: "M Alif Dewan",
-        id: "2221156",
+        name: "Sayeed Jahin Abid Samin",
+        id: "2222114",
         personal_notion_page:
-            "https://www.notion.so/129e180f996e4a26bd722cf6601794e2?pvs=16",
-        personal_group_page_notion:
-            "https://www.notion.so/129e180f996e4a26bd722cf6601794e2?pvs=16",
-        github_id: "itsal-me",
-        project_github_link: "https://github.com/itsal-me/Clork-ai",
+            "https://www.notion.so/d34af707270e4b66bf26762aaad2502a",
+        github_id: "Abid214",
+        project_github_link: "https://github.com/Abid214/Final-Project-2222114.git",
     };
 
     return (
